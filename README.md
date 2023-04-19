@@ -1,5 +1,11 @@
 # CertifiedEthicalHacker-v12
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/HackWithSumit/count.svg" />
+</p>
+
+
 <b>CEH V12 Training Modules</b>
 
 <h><b>Total Modules 20</h3></b>
