@@ -5,6 +5,8 @@
   <img src="https://profile-counter.glitch.me/HackWithSumit/count.svg" />
 </p>
 
+<b>Important: Email me for this repositories</b>
+
 
 <b>CEH V12 Training Modules</b>
 
