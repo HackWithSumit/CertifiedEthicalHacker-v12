@@ -14,4 +14,6 @@
 
 <b>Download: </b>
 
+       https://github.com/HackWithSumit/CertifiedEthicalHacker-v12/releases/download/CEHv12/CEH.v12.Training.Module_protected.pdf
+
 <b>Password : </b> hackwithsumit (encrypt)
