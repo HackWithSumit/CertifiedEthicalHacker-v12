@@ -12,6 +12,6 @@
 
 ![image](https://github.com/HackWithSumit/CertifiedEthicalHacker-v12/assets/120317751/9aba7ac9-a001-423b-9298-f647c7b21643)
 
-Download: 
+<b>Download: </b>
 
-Password : hackwithsumit (encrypt)
+<b>Password : </b> hackwithsumit (encrypt)
