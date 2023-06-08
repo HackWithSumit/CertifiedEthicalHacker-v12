@@ -1,5 +1,8 @@
 # CertifiedEthicalHacker-v12
 
+
+Follow me & Share my GitHub Profile Then will get PDF Credential
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/HackWithSumit/count.svg" />
