@@ -19,4 +19,4 @@ Follow me & Share my GitHub Profile Then will get PDF Credential
 
        https://github.com/HackWithSumit/CertifiedEthicalHacker-v12/releases/download/CEHv12/CEH.v12.Training.Module_protected.pdf
 
-<b>Password : </b> hackwithsumit ---> (encrypted)
+<b>Password : </b> hackwithsumit ---> (encrypted)----> aGFja3dpdGhzdW1pdA== (encrypted) ----> Find out password
