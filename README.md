@@ -24,5 +24,4 @@ Follow me & Share my GitHub Profile Then will get PDF Credential
 Pay For Password
 |
 
-![WhatsApp Image 2023-06-18 at 7 51 40 PM](https://github.com/HackWithSumit/CertifiedEthicalHacker-v12/assets/120317751/6bb9af56-04c4-4a81-8d74-0cf52c7b5e42)
-
+![Screenshot from 2023-06-18 19-55-19](https://github.com/HackWithSumit/CertifiedEthicalHacker-v12/assets/120317751/5d64cf64-dae8-4247-8873-543f9213e4e6)
