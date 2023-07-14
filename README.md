@@ -19,7 +19,7 @@ Follow me & Share my GitHub Profile Then will get PDF Credential
 
        https://github.com/HackWithSumit/CertifiedEthicalHacker-v12/releases/download/CEHv12/CEH.v12.Training.Module_protected.pdf
 
-<b>Password : 203053b770224b71bc4933a564e664d5
+<b>Password : 203053b770224b
  
 Pay For Password
 |
