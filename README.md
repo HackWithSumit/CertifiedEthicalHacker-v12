@@ -19,10 +19,16 @@ Follow me & Share my GitHub Profile Then will get PDF Credential
 
        https://github.com/HackWithSumit/CertifiedEthicalHacker-v12/releases/download/CEHv12/CEH.v12.Training.Module_protected.pdf
 
-<b>Password : 203053b770224b
-Course Price : 33000/-
-Pay For Password RS 5000/- Only
-After payment comment your UPI reference no
+<b>Password Hints : 203053b770224b </b>
+
+<b> Important Notice : </b>
+
+    CEH v12 Certification Price : RS 33000/-
+
+<BR>
+
+    Trainning Module Price : RS 5000/-
+
 |
 
 ![Screenshot from 2023-06-18 19-55-19](https://github.com/HackWithSumit/CertifiedEthicalHacker-v12/assets/120317751/5d64cf64-dae8-4247-8873-543f9213e4e6)
