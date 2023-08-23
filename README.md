@@ -1,4 +1,4 @@
-# CertifiedEthicalHacker-v12
+After# CertifiedEthicalHacker-v12
 
 
 Follow me & Share my GitHub Profile Then will get PDF Credential
@@ -21,7 +21,8 @@ Follow me & Share my GitHub Profile Then will get PDF Credential
 
 <b>Password : 203053b770224b
  
-Pay For Password
+Pay For Password RS 500/- Only
+After payment comment your UPI reference no
 |
 
 ![Screenshot from 2023-06-18 19-55-19](https://github.com/HackWithSumit/CertifiedEthicalHacker-v12/assets/120317751/5d64cf64-dae8-4247-8873-543f9213e4e6)
