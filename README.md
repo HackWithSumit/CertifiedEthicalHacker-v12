@@ -27,7 +27,7 @@ Follow me & Share my GitHub Profile Then will get PDF Credential
 
 <BR>
 
-    Trainning Module Price : RS 5000/-
+    Trainning Module Price : RS 500/- only
 
 <BR>
 
