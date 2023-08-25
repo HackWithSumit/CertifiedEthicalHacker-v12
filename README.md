@@ -1,7 +1,6 @@
-<BRAfter# CertifiedEthicalHacker-v12
+<BR>
+<b>CertifiedEthicalHacker-v12</b> 
 
-
-Follow me & Share my GitHub Profile Then will get PDF Credential
 
 <p align="center"> 
   Visitor count<br>
