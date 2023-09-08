@@ -20,7 +20,7 @@ Send mail whitehatsumit@proton.me after payment
 
        https://github.com/HackWithSumit/CertifiedEthicalHacker-v12/releases/download/CEHv12/CEH.v12.Training.Module_protected.pdf
 
-<b>Password Hints : 203053b770224b </b>
+
 
 <b> Important Notice : </b>
 
