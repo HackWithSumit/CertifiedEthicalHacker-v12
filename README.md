@@ -1,6 +1,8 @@
 <BR>
 <b>CertifiedEthicalHacker-v12</b> 
 
+Send mail whitehatsumit@proton.me after payment
+
 
 <p align="center"> 
   Visitor count<br>
