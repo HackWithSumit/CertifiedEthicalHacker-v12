@@ -1,7 +1,14 @@
 <BR>
 <b>CertifiedEthicalHacker-v12</b> 
 
-Send mail whitehatsumit@proton.me after payment
+1. Send mail whitehatsumit@proton.me after payment
+2. Drop UPI Id & amount to the issue : https://github.com/HackWithSumit/CertifiedEthicalHacker-v12/issues
+
+
+
+<b> Purchased List : </b>
+
+
 
 
 <p align="center"> 
