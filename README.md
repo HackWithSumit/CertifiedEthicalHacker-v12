@@ -1,6 +1,9 @@
 <BR>
 <b>CertifiedEthicalHacker-v12</b> 
 
+
+<b>RS 500/- only </b>
+
 1. Send mail whitehatsumit@proton.me after payment
 2. Drop UPI Id & amount to the issue : https://github.com/HackWithSumit/CertifiedEthicalHacker-v12/issues
 
