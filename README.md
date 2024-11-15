@@ -7,7 +7,6 @@
 
      https://github.com/HackWithSumit/CertifiedEthicalHacker-v12/releases/download/CEHv12/CEH.V12.rar
 
-     ======================================================================================================
 
 **Support**
 
